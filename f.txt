@@ -1,2 +1,7 @@
-hello 
-kamar
+!DOCTYPE html
+<html>
+   <title>cse</title>
+   <body>
+        <p>this is heading</p>
+    </body>
+    </html>
